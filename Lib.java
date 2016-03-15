@@ -17,6 +17,6 @@ public class Lib {
     }
 
     public void metodoComunitario(){
-        System.out.println("cambio en metodo3");
+        System.out.println("resuelvo conflicto");
     }
 }
